@@ -1,5 +1,3 @@
-# ddd-fml
-
 # Machine Learning for Data-Driven Design 
 ### This is a repository created for my Machine Learning class. Notebooks corrspond to the following assignments:
 * Assignment 3: Build a linear regression model to predict the log number of shares an article received
